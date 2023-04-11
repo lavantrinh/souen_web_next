@@ -11,11 +11,11 @@ function ProfileTable(props) {
                 </tr>
                 <tr>
                     <th>本社</th>
-                    <td><address className='fs-5'>
+                    <td><address>
                         <span>〒455-0804</span><br />
                         名古屋市港区当地4丁目2203 <a href='https://goo.gl/maps/HzWc1vKz6tyZD9zP9'><i className="bi bi-globe-asia-australia"></i></a><br />
                         Fax: 052-381-8817<br />
-                        <a href='tel:+0523848150'>052-384-8150</a><br />
+                        <a href='tel:+0523848150'>Tel: 052-384-8150</a><br />
                         <a href='mailto:hattori@k-souen.co.jp'>hattori@k-souen.co.jp</a>
                     </address></td>
 
