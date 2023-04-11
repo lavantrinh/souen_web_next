@@ -7,7 +7,7 @@ function equipment(props) {
         <>
           <Header/>
           <NavTop active="equipment"/>
-
+<h2 className='pt-5 mt-5'>cxin</h2>
         </>
     );
 }
